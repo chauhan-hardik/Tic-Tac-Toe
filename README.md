@@ -4,11 +4,11 @@
 
 Welcome to the Tic Tac Toe Game project! This classic game is implemented with HTML5, CSS3, and JavaScript. Challenge a friend and see who can align three symbols in a row to win!
 
-<!--
+
 ## Live Demo
 
-Check out the live demo of the Tic Tac Toe Game [here](#).
--->
+Check out the live demo of the Tic Tac Toe Game [here](https://chauhan-hardik.github.io/Tic-Tac-Toe/).
+
 ## Features
 
 - **User-friendly Interface:** Enjoy a clean and intuitive design for a smooth gaming experience.
