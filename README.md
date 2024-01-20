@@ -43,7 +43,7 @@ Check out the live demo of the Tic Tac Toe Game [here](https://chauhan-hardik.gi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/chauhan-hardik/Tic-Tac-Toe.git
 
 ## Contributing
 Contributions are welcome! If you have ideas for improvements, find bugs, or want to enhance the project, please open an issue or submit a pull request. 
